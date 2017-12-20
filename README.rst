@@ -1,12 +1,12 @@
 N2
-== 
+==
 
 .. image:: https://travis-ci.org/kakao/n2.svg?branch=master
    :target: https://travis-ci.org/kakao/n2
 
 .. image:: https://img.shields.io/pypi/v/n2.svg?style=flat
    :target: https://pypi.python.org/pypi/n2
-   
+
 N2 - approximate **N**\ earest **N**\ eighbor
 
 .. code:: python
@@ -72,7 +72,7 @@ Index build times
 
 |image0|
 
-Search speed
+Search speed and precision
 ~~~~~~~~~~~~
 
 |image1|
@@ -130,5 +130,5 @@ limitations under the License.
 .. _Apache 2 license: LICENSE.txt
 
 .. |image0| image:: docs/imgs/build_time/build_time.png
-.. |image1| image:: docs/imgs/search_time/search_speed.png
+.. |image1| image:: docs/imgs/search_time/total.png
 .. |image2| image:: docs/imgs/mem/memory_usage.png
